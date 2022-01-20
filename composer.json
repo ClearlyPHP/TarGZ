@@ -1,0 +1,24 @@
+{
+	"name": "clearlyphp/targz",
+	"description": "Simple tool to create tar.gz files without using PharData",
+	"keywords": ["targz", "phardata", "package"],
+	"license": "AGPL3",
+	"authors": [
+		{
+			"name": "Rob Thomas",
+			"email": "xrobau@gmail.com"
+		}
+	],
+	"type": "project",
+	"require": {
+		"splitbrain/php-archive": "^1.2"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "9.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"ClearlyPHP\\Tools\\": "src/"
+		}
+	}
+}
