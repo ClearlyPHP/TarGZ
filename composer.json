@@ -2,7 +2,7 @@
 	"name": "clearlyphp/targz",
 	"description": "Simple tool to create tar.gz files without using PharData",
 	"keywords": ["targz", "phardata", "package"],
-	"license": "AGPL3",
+	"license": "AGPL-3.0-only",
 	"authors": [
 		{
 			"name": "Rob Thomas",
