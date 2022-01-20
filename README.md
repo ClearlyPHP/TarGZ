@@ -45,7 +45,9 @@ help you out.
 If you're interested in more of our open source code, here's some links to our personal github pages
 
 - [Andrew (tm1000)](https://github.com/tm1000)
+- [Bryan (GameGamer43)](https://github.com/GameGamer43)
 - [Francois-Alexandre (Fasa)](https://github.com/f-asa)
 - [Julien](https://github.com/julienchabanon)
+- [Mamadou](https://github.com/madkonix)
 - [Rob (xrobau)](https://github.com/xrobau)
 - [Stas](https://github.com/staskobzar)
