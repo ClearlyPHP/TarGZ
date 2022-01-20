@@ -9,7 +9,7 @@
 			"email": "xrobau@gmail.com"
 		}
 	],
-	"type": "project",
+	"type": "library",
 	"require": {
 		"splitbrain/php-archive": "^1.2"
 	},
