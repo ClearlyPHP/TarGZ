@@ -48,3 +48,4 @@ If you're interested in more of our open source code, here's some links to our p
 - [Francois-Alexandre (Fasa)](https://github.com/f-asa)
 - [Julien](https://github.com/julienchabanon)
 - [Rob (xrobau)](https://github.com/xrobau)
+- [Stas](https://github.com/staskobzar)
